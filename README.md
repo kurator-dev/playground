@@ -16,6 +16,11 @@ It provides powerful capabilities for multi-cloud and multi-cluster management, 
 
 You can enjoy tutorial experience about Karmada with following platforms.
 
+![killercoda-platform](./images/killercoda.png)
+
+- Try [Installing Kurator on Kubernetes](https://killercoda.com/965010e0-4f60-4a28-bf27-597d3kurator/scenario/install-kurator).
+- Try [Distribute deployments using the kurator Application feature](https://killercoda.com/965010e0-4f60-4a28-bf27-597d3kurator/scenario/application-example).
+
 ## Contribution
 
 Please refer to [kurator Contributing](https://github.com/kurator-dev/kurator/blob/main/CONTRIBUTING.md)
